@@ -1,7 +1,7 @@
 # RAG Assistant
 
 
-A **Overview of the **RAG Assistant** workflow.  
+A **Overview** of the **RAG Assistant** workflow.  
 - Documents are first **chunked** and stored with **FAISS embeddings**.  
 - User queries are either **typed or spoken** (STT).  
 - The assistant **retrieves relevant chunks** from the knowledge base.  

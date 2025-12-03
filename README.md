@@ -1,6 +1,6 @@
 # RAG Assistant
 
-![RAG Assistant](https://img.shields.io/badge/RAG-Assistant-AI-blue)
+![RAG Assistant]([https://img.shields.io/badge/RAG-Assistant-AI-blue](https://share.google/images/ieajCf5Al89BPsNiW)
 
 A **real-time Retrieval-Augmented Generation (RAG) AI Assistant** that can:
 - Answer questions using documents and books.
@@ -132,9 +132,10 @@ Sources: ['pride_and_prejudice.txt']
 ```
   **TTS: Reads out the answer automatically.**
 
-  ##**Notes**
+  ## **Notes**
+  
   **.** Works best with Python 3.10+
 
   **.** Ensure index/faiss.index and index/meta.json exist before running.
 
- **.**  gTTS requires an internet connection for TTS.
+  **.**  gTTS requires an internet connection for TTS.

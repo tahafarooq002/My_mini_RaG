@@ -114,7 +114,7 @@ export HF_TOKEN="your_huggingface_or_openai_api_key"
 
 **.** Ask questions interactively and listen to answers.
 
-## ** Supported Documents**
+## **Supported Documents**
 
 **.** Free books from Project Gutenberg
 

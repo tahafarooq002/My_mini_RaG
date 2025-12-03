@@ -1,6 +1,6 @@
 # RAG Assistant
 
-(![Alt text for the image](https://share.google/images/ieajCf5Al89BPsNiW "Optional title"))
+(![Alt text for the image]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fkey-use-cases-rag-from-chatbots-research-assistants-shaheryar-yousaf-g3m1f&psig=AOvVaw0Rof58u8xosr_YlMgD_R4v&ust=1764851609124000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj8v5vbtqGRAxV1X_EDHQLVFlcQjhx6BAgAEBs)))
 
 
 A **real-time Retrieval-Augmented Generation (RAG) AI Assistant** that can:

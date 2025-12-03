@@ -1,8 +1,7 @@
 # RAG Assistant
 
-![RAG Assistant Architecture](https://share.google/images/ieajCf5Al89BPsNiW "RAG Assistant System Overview")
 
-**Figure:** Overview of the **RAG Assistant** workflow.  
+A **Overview of the **RAG Assistant** workflow.  
 - Documents are first **chunked** and stored with **FAISS embeddings**.  
 - User queries are either **typed or spoken** (STT).  
 - The assistant **retrieves relevant chunks** from the knowledge base.  
@@ -11,12 +10,7 @@
 - The system supports **actions**, like opening websites or other automated tasks.
 
 
-A **real-time Retrieval-Augmented Generation (RAG) AI Assistant** that can:
-- Answer questions using documents and books.
-- Speak answers with **Text-to-Speech (TTS)**.
-- Listen to voice queries with **Speech-to-Text (STT)**.
-- Perform actions like opening websites.
-- Run in **Jupyter Notebook**, **Anaconda**, or standalone Python scripts.
+
 
 ---
 

@@ -1,6 +1,7 @@
 # RAG Assistant
 
-![RAG Assistant](https://share.google/images/ieajCf5Al89BPsNiW)
+(![Alt text for the image](https://share.google/images/ieajCf5Al89BPsNiW "Optional title"))
+
 
 A **real-time Retrieval-Augmented Generation (RAG) AI Assistant** that can:
 - Answer questions using documents and books.

@@ -1,6 +1,6 @@
 # RAG Assistant
 
-![RAG Assistant]([https://img.shields.io/badge/RAG-Assistant-AI-blue](https://share.google/images/ieajCf5Al89BPsNiW)
+![RAG Assistant](https://share.google/images/ieajCf5Al89BPsNiW)
 
 A **real-time Retrieval-Augmented Generation (RAG) AI Assistant** that can:
 - Answer questions using documents and books.
